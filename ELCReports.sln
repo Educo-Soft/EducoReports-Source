@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pdf_Home", ".", "{0A4CA0DC-EB3F-4527-9C47-67CE77FD2273}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/Pdf_Home"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\educosoft_PROJECT\Pdf_Home\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Pdf_Home\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Pdf_Home"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\educosoft_PROJECT\Pdf_Home\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Pdf_Home\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49951"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4CA0DC-EB3F-4527-9C47-67CE77FD2273}.Debug|.NET.ActiveCfg = Debug|.NET
+		{0A4CA0DC-EB3F-4527-9C47-67CE77FD2273}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1BD386-8684-4E94-B26E-6FF2DDD7E262}
+	EndGlobalSection
+EndGlobal

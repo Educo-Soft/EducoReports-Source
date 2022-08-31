@@ -1,0 +1,152 @@
+BODY
+{
+	/*font-family : 'Verdana';
+	font-size:11px;
+	font-weight:bold;*/
+}
+  
+
+.TableHeader
+{
+	font-family :Verdana ;
+	font-size:11px;
+	font-weight:bold;
+	color:#ffffff;
+	Background-color :#9BC1D2;
+	height :15px;
+}
+
+.CellContentEven
+{
+	font-family :Verdana ;
+	font-size:11px;
+	font-weight:Normal;
+	color: #044271;
+	background-color :#F3F6F7;
+	height :15px;
+}
+.SummaryRow
+{
+	font-family :Verdana ;
+	font-size:11px;
+	font-weight:Normal;
+	color: #044271;
+	background-color :#D7EAF1;
+	height :15px;
+}
+.CellContentLink
+{
+	font-family :'Verdana' ;
+	font-size:11px;
+	font-weight:Normal;
+	color:#0033CC;
+}
+
+
+.LinkNormal
+{
+	font-family :Verdana ;
+	font-size:11px;
+	font-weight:Normal;
+	color:#4682b4;
+	text-decoration :underline;
+	cursor:hand;
+}
+
+.lblTitle
+{
+	font-family : Verdana;
+	font-size:11px;
+	font-weight:bold;
+	color: Maroon;
+}
+.label
+{
+	font-family : Verdana;
+	font-size:11px;
+	font-weight:bold;
+}
+.TextNormal
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: 'Verdana'
+}
+.LabelBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: green;
+    FONT-FAMILY: Verdana;
+}
+.LabelNormal
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: green;
+    FONT-FAMILY: Verdana;
+}
+
+.CategoryTableHeader
+{
+	font-size: 9pt; 
+	font-family: Verdana;
+	width:100%;
+	height:30px;
+}
+
+.CategoryHeaderRow
+{
+	Height:20px;
+}
+
+.CategorySummaryLabel
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    COLOR: green;
+    FONT-FAMILY: 'Times new roman';
+    text-align: right;
+}
+
+.CategorySummaryText
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Times new roman;
+    text-align: left;
+    width:150px;
+}
+
+.ScoreDetailTable
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Times new roman;
+    width:100%;
+    border:0px none #660000;
+}
+
+.ScoreDetailTableRow
+{
+    /*background-color:aliceblue;*/
+    FONT-FAMILY: Times new roman;
+    FONT-SIZE: 12px;
+    height:20px;
+}
+.CategorySummaryTable
+{
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Times new roman;
+    width:50%;
+}
+.lblMessage
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	font-weight:normal;
+	COLOR: red;
+}
+
+

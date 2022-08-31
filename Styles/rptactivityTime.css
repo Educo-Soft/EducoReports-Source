@@ -1,0 +1,75 @@
+BODY
+{
+	font-family : 'Verdana';
+	font-size:11px;
+}
+  
+
+.Table1
+{
+	font-family :'Verdana' ;
+	font-size:12px;
+	font-weight:bold;
+	color:#ffffff;
+	/*Background-color :#99ccff;*/
+	/*height :20px;*/
+	border-collapse: collapse;
+	border-width: 0px; 
+	width:100%;
+}
+
+.Table2
+{
+	font-family :'Verdana' ;
+	font-size:11px;
+	font-weight:Normal;
+	color:Black;
+	/*Background-color :#99ccff;*/
+	/*height :20px;*/
+	border-collapse: collapse;
+	border-width: 5px; 
+	width:100%;
+}
+
+.Row
+{
+	/*background-color :ghostwhite;*/
+	height :25px;
+	width: 62%;
+	height: 20px;
+	border-bottom: gainsboro 1px solid;
+}
+
+.LinkNormal
+{
+	font-family :'Verdana' ;
+	font-size:11px;
+	font-weight:Normal;
+	color:'steelblue';
+	text-decoration :underline;
+	onmouseover="javascript:void(0);return '';";
+}
+.TextNormal
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    color:steelblue;
+    FONT-FAMILY: 'Verdana'
+}
+
+.LabelNormal
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: green;
+    FONT-FAMILY: 'Verdana';
+}
+
+.CategoryTableHeader
+{
+	font-size: 9pt; 
+	font-family: Verdana;
+	width:100%;
+	height:25px;
+}
+

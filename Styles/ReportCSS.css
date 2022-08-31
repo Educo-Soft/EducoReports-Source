@@ -1,0 +1,193 @@
+Body
+{
+	font-family:Verdana;
+	font-size:9px;
+	font-weight:normal;
+	overflow-x:hidden;
+	margin-top:0px;
+}
+
+.ExpColLink
+{
+	font-family :'Verdana';
+	font-size:11px;
+	font-weight:Normal;
+	color:#0033cc;
+	text-decoration :underline;
+	cursor:hand;
+}
+
+
+/* Timespent Div Properties */
+
+.divClass 
+{ 
+    position: absolute;
+    cursor: move;
+    background-color:aliceBlue;
+    border: 1px solid green;
+    width: 150px;
+    height: 118px;
+    Visibility:hidden;
+   /*text-align:right;*/
+}
+.lnkClass 
+{ 
+    color:Maroon;
+    font-weight:normal;
+    font-size: 8pt;
+    
+}
+tr.divBottom
+{
+  	background-color:beige;
+  	border-top: green 1px solid;
+}  
+       
+.divTopicRef
+{
+	color:Black;
+	font-size: 8pt;
+	font-weight:Bold; 
+}
+
+.divTable
+{
+	font-size: 8pt; 
+	font-family: Verdana; 
+	background-color: white; 
+	border-top: green 1px solid; 
+	width:100%;
+} 
+
+/* End of Div Properties */
+
+
+
+/* Header 1 Pre-Test  Test*/
+
+td.headCell1 {
+	width:50%;
+	
+}
+td.headCell2 {
+	width:10%;
+	
+}
+td.headCell3 {
+	width:5px;
+	
+}
+td.headCell4 {
+	width:35%;
+	
+}
+td.headCell5 {
+	width:5px;
+}
+
+.HeaderLabel1
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	font-weight:bold;
+	COLOR: black;
+}	
+	
+
+
+/* Header 2 'Topic, Tut, Time %Score,  Test Time, correct, Score, Grade */
+
+table.header2
+{
+	height:20px;
+	font-size: 8pt;
+	font-family: Verdana; 
+	border-bottom: #3399cc 1px solid; 
+	width: 100%; 
+}
+
+tr.headRow {
+background-color:#D7EAF1;
+}
+
+td.cellTopic {
+	width:41%;
+}
+td.cellTutTime {
+	width:10%;
+}
+
+
+td.cellScore1 {
+	width:13%;
+	text-align:left;
+}
+
+td.cellTstTime {
+	width:11%;
+}
+
+td.cellCorrect {
+	width:9%;
+
+}
+
+td.cellPctScore {
+	width:8%;
+}
+
+td.cellGrade {
+	/*width:10%;*/
+}
+
+
+
+.LinkNormal
+{
+	font-family :'Verdana';
+	font-size:11px;
+	font-weight:Normal;
+	color:#0033cc;
+	text-decoration :underline;
+	cursor:hand;
+}
+
+.lblTitle
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	font-weight:bold;
+	color: Maroon;
+}
+.label
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	COLOR: green;
+	font-weight:normal;
+}
+.TextNormal
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Verdana;
+    color:steelblue;
+    
+}
+
+.lblMessage
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	font-weight:normal;
+	COLOR: red;
+}
+
+.HeaderLabel
+{
+	font-family : 'Verdana';
+	font-size:11px;
+	font-weight:bold;
+	COLOR: SteelBlue;
+}
